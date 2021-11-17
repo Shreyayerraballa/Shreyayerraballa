@@ -1,0 +1,11 @@
+git int=create new empty repositry
+git add=add a file to staging area
+git status=current status
+git log=list the version history for the current branch
+git config=set username and email address 
+git clone=obtain a repository from an existing ur1
+git branch=lists all the local repositary in the current repositary 
+git merge=merge the specified branch historyinto the curret history
+git push=sends the commited changes of master branch to our remote repositary
+git remote=it is used to connect your local repositary to the remote repositary
+git pull=fetches and merges changes on the remote server to your working directory
