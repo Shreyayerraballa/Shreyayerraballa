@@ -1,0 +1,20 @@
+vi commands
+i-insert at cursor
+esc-terminate insert mode
+u=undo last change
+U=undo all changes to the entire line
+dd=delete the current line
+3dd=delete 3 lines
+D=delete the content of the cursor and insert new text.press esc to end
+dw=delete word
+4dw=delete 4 words
+cw=change word
+x=delete character
+r=replace character
+shift+zz=save the file and quit
+:w save the file but the file will be still open
+:q quit without saving
+:wq savde the file and quit
+gg=take hour cursor to the furst character
+dg=delete all your lines or text in your file
+/var=it indicates the name inVIcode
