@@ -1,0 +1,14 @@
+                                                                                          chmod using numeric characters
+chmod a+rwx file
+instead of this we can use another way by numeric values 
+chmod 777 file - it provide all the read ,write execute permissions
+    
+  NUMBER                                                                    REPRESENTS                                                         STATUS
+ 0                                                                                   no permission                                                        ---
+ 1                                                                                   execute permisson                                                  --X
+ 2                                                                                   write permission                                                     -W-            
+ 3                                                                                   execute and write                                                    -WX
+ 4                                                                                  read and permission                                                 r--
+ 5                                                                                  read,execute                                                             r-x
+- 6                                                                                  read,write                                                                rw-    
+ 7                                                                                 read,write,execute                                                      rwx     
